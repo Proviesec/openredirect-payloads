@@ -1,0 +1,2 @@
+return_url=www.google.com
+return_url=https://www.google.com
