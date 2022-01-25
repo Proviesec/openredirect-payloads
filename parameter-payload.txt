@@ -31,3 +31,4 @@
 /login?to=//https://proviesec.medium.com
 /login?to=/\https://proviesec.medium.com
 /login?to=///https://proviesec.medium.com
+/continue/https://proviesec.medium.com
