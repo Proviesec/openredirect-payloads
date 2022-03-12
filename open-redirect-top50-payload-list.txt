@@ -42,7 +42,6 @@ https://www.whitelisteddomain.tld@google.com/%2f..
 ///www.google.com/%2f%2e%2e
 ///www.whitelisteddomain.tld@www.google.com/%2f%2e%2e
 ////www.google.com/%2f%2e%2e
-////www.whitelisteddomain.tld@www.google.com/%2f%2e%2e
 //google.com
 https:google.com
 //google%E3%80%82com
