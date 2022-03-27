@@ -17,8 +17,8 @@ If you have any GitHub Dorks, just create a PullRequest.
 
 
 # Todos 
-- [ ] Parameter
-- [ ] Next 
+- [ ] Parameter list 
+- [ ] best reports 
 
 # Example
 
