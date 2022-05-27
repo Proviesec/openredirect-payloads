@@ -13,10 +13,8 @@
 
 If you have any GitHub Dorks, just create a PullRequest. 
 
-
 - Open Redirect Payloads
 - Open Redirect Payloads for Parameter
-
 
 ## Todos 
 - [ ] Parameter list 
