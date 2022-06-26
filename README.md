@@ -21,7 +21,9 @@ If you have any GitHub Dorks, just create a PullRequest.
 - [ ] Best tools
 - [ ] best reports 
 
-## Example
+## Reports 
+
+https://hackerone.com/reports/1097208 
 
 ## Best tools
 - [ ] ffufmaster
