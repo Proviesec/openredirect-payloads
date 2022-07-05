@@ -19,7 +19,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 ## Todos 
 - [ ] Parameter list 
 - [ ] Best tools
-- [ ] best reports 
+- [x] best reports 
 
 ## Reports 
 
