@@ -1,4 +1,6 @@
 return_url=www.google.com
 return_url=https://www.google.com
+return=www.google.com
+return=https://www.google.com
 continue=https://www.google.com
 continue=www.google.com
