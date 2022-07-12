@@ -5,6 +5,8 @@
 ?url=https:///proviesec.medium.com
 ?url=http://proviesec.medium.com
 ?url=https://proviesec.medium.com
+?return=https://proviesec.medium.com
+?return=http://proviesec.medium.com
 ?continue=//https://proviesec.medium.com
 ?continue=https://proviesec.medium.com
 ?url=$2f%2fhttps://proviesec.medium.com
