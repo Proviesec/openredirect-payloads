@@ -15,6 +15,7 @@
 ?url=//https://proviesec.medium.com
 ?url=$2f%2fhttps://proviesec.medium.com
 ?url=//https://proviesec.medium.com
+?returnto=https://proviesec.medium.com 
 /redirect/https://proviesec.medium.com
 /cgi-bin/redirect.cgi?https://proviesec.medium.com
 /out/https://proviesec.medium.com
