@@ -4,3 +4,5 @@ return=www.google.com
 return=https://www.google.com
 continue=https://www.google.com
 continue=www.google.com
+redirect_uri=www.google.com
+redirect_uri=https://www.google.com
